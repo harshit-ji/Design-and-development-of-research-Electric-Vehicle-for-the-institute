@@ -1,1 +1,2 @@
 # Design-and-development-of-research-Electric-Vehicle-for-the-institute
+The IVDC club of IIT Indore was added to a project of the institute with CIVETS of electrical department as our partner and Prof. Devendra Deshmukh as our project mentor. The project was about the design and manufacturing of a four-seater electric vehicle for research and development in the domain of vehicles automation. The project was divided between CIVETS and IVDC club where IVDC club was to design and manufacture the body of the vehicle whereas CIVETS would design the powertrain of the vehicle. 
